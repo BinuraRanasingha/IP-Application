@@ -1,0 +1,4 @@
+﻿  ConsoleApplication2.cpp
+E:\Binura\SLIIT\1st year 1st sem\IP\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(12,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Binura\SLIIT\1st year 1st sem\IP\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(31,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Binura\SLIIT\1st year 1st sem\IP\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(5,10): warning C4101: 'c_name': unreferenced local variable
